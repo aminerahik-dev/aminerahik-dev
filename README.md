@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub
 
-<!--
-**aminerahik-dev/aminerahik-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎯 FiveM Server Developer
+- 💻 Languages: Lua, C#, JavaScript
+- 🚀 Passionate about creating value through coding
+- 📍 Morocco → Europe (2026)
 
-Here are some ideas to get you started:
+## Skills
+- **FiveM Development**: Lua scripting, server architecture
+- **Backend**: C#, API integration
+- **Databases**: MySQL, MariaDB
+- **Tools**: Git, Visual Studio Code, Discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+
+## Statistics
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aminerahik-dev&show_icons=true&theme=dark)
+
+## Let's Connect
+- 📧 Email: mohamedaminerahik@gmail.com
+- 💬 Discord: @mohamed_amine.
+
+---
+*Building professional portfolio for freelancing | FiveM Developer*
