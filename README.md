@@ -18,10 +18,37 @@
 
 ## Installation
 
-1. Clone repostory
-2. Navigate to folder
-3. Start resource
-4. Configure database
+### Prerequisites
+
+-FiveM Server
+-MySQL Database
+-Lua 5.4+
+
+### Step-by-Step Guide
+
+1. **Clone repostory**
+    ```bash
+    git clone https://github.com/aminerahik-dev/[script].git
+    cd [script]
+    ```
+2. **Add to server**
+   -Copy folder to your _ressources_ directory
+   -Add to _server.cfg_:
+   _ensure [script]_
+3. **Configure Database**
+   -Edit _config.lua_
+   -Update database credentials
+   -Create tables (see docs/database.sql)
+4. **Start Server**
+   -Restart FiveM server
+   -Chek console for confirmation
+   -Verify no errors
+
+### Troubleshooting
+
+    -Check database connection
+    -Verify folder permissions
+    -Review server logs
 
 ## Statistics
 
