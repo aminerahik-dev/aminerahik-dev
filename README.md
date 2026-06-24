@@ -61,6 +61,21 @@
 - 📧 Email: mohamedaminerahik@gmail.com
 - 💬 Discord: @mohamed_amine.
 
+## ☕ Support My Work
+
+If you find my projects helpful, consider buying me a coffee!
+
+Your support helps me:
+
+- Build new features
+- Fix bugs faster
+- Improve documentation
+- Continue development
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aminerahik)
+
+Thank you! 🙏
+
 ---
 
 _Building professional portfolio for freelancing | FiveM Developer_
