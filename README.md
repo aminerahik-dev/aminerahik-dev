@@ -16,6 +16,8 @@
 
 ## Featured Projects
 
+- FiveM-Admin-Menu
+
 ## Installation
 
 ### Prerequisites
