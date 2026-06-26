@@ -1,81 +1,86 @@
-# 👋 Welcome to My GitHub
+<div align="center">
 
-## About Me
+# Amine
 
-- 🎯 FiveM Server Developer
-- 💻 Languages: Lua, C#, JavaScript
-- 🚀 Passionate about creating value through coding
-- 📍 Morocco → Europe (2026)
+**FiveM Developer — building production-ready resources for roleplay servers.**
 
-## Skills
+[![Profile Views](https://komarev.com/ghpvc/?username=aminerahik-dev&style=flat-square&color=orange)](https://github.com/aminerahik-dev)
+&nbsp;
+[![Location](https://img.shields.io/badge/Morocco_→_Europe_2026-informational?style=flat-square)](https://github.com/aminerahik-dev)
 
-- **FiveM Development**: Lua scripting, server architecture
-- **Backend**: C#, API integration
-- **Databases**: MySQL, MariaDB
-- **Tools**: Git, Visual Studio Code, Discord
-
-## Featured Projects
-
-- FiveM-Admin-Menu
-
-## Installation
-
-### Prerequisites
-
--FiveM Server
--MySQL Database
--Lua 5.4+
-
-### Step-by-Step Guide
-
-1. **Clone repostory**
-    ```bash
-    git clone https://github.com/aminerahik-dev/[script].git
-    cd [script]
-    ```
-2. **Add to server**
-   -Copy folder to your _ressources_ directory
-   -Add to _server.cfg_:
-   _ensure [script]_
-3. **Configure Database**
-   -Edit _config.lua_
-   -Update database credentials
-   -Create tables (see docs/database.sql)
-4. **Start Server**
-   -Restart FiveM server
-   -Chek console for confirmation
-   -Verify no errors
-
-### Troubleshooting
-
-    -Check database connection
-    -Verify folder permissions
-    -Review server logs
-
-## Statistics
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aminerahik-dev&show_icons=true&theme=dark)
-
-## Let's Connect
-
-- 📧 Email: mohamedaminerahik@gmail.com
-- 💬 Discord: @mohamed_amine.
-
-## ☕ Support My Work
-
-If you find my projects helpful, consider buying me a coffee!
-
-Your support helps me:
-
-- Build new features
-- Fix bugs faster
-- Improve documentation
-- Continue development
-
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aminerahik)
-
-Thank you! 🙏
+</div>
 
 ---
 
-_Building professional portfolio for freelancing | FiveM Developer_
+## About
+
+I write clean, lightweight Lua for FiveM servers — no bloat, no unnecessary dependencies.
+Currently focused on building a public resource portfolio and launching a FiveM script store.
+
+- Working on production-ready admin tools, framework-compatible and easy to deploy
+- Stack: Lua · JavaScript · C# · MySQL
+- Goal: quality scripts that server owners can trust and actually use
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![FiveM](https://img.shields.io/badge/FiveM-orange?style=flat-square)
+
+---
+
+## Projects
+
+### 🛡️ [fivem-admin-menu](https://github.com/aminerahik-dev/fivem-admin-menu)
+
+Professional admin menu for FiveM roleplay servers.
+Full player management, 3-tier ACE permission system, persistent ban records, and Discord logging.
+Compatible with ESX, QBCore, and Standalone — zero third-party UI dependencies.
+
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Version](https://img.shields.io/badge/v2.0.0-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/MIT-green?style=flat-square)
+
+---
+
+## Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aminerahik-dev&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=aminerahik-dev&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aminerahik-dev&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+## Contact
+
+- 📧 [mohamedaminerahik@gmail.com](mailto:mohamedaminerahik@gmail.com)
+- 💬 Discord: **@mohamed_amine.**
+
+---
+
+## Support
+
+If my work saves you time, a coffee keeps the builds coming.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/aminerahik)
